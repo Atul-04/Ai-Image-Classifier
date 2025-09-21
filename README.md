@@ -30,7 +30,7 @@ First, we need to have all the requirements before hosting into our local system
 ### Steps to Follow:
 + Clone the Repository
 ```bash
-git clone 
+git clone https://github.com/Atul-04/Ai-Image-Classifier.git
 ```
 + Open the terminal in the folder where all these files are saved
 + Use the command to run the app
