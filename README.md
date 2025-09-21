@@ -20,7 +20,7 @@ One of the main reasons is the use of Inception modules which can perform convol
 
 ## Project Working Video
 
-![Demo video](Demo_video.mp4)
+[▶️ Watch Demo Video](Demo_video.mp4)
 
 ## How to get started 🚀
 First, we need to have all the requirements before hosting into our local system.
